@@ -23,5 +23,5 @@ Content performance analysis
 
 Feel free to customize this README file to better fit the specifics of your project. If you have any additional details or features you'd like to include, let me know!
 
-If you have any questions or feedback, feel free to contact us at pawank06289@gmai.com
+If you have any questions or feedback, feel free to contact us at pawank06289@gmail.com
 
